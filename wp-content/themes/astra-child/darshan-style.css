@@ -1,0 +1,13 @@
+img.custom-logo{
+	width: 40px !important;
+}
+.ast-builder-menu-1 .menu-item > .menu-link{
+	font-size : 15px !important;
+}
+#masthead.scrolled {
+    transition: background-color 0.7s ease-in-out;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    background-color: #000000a8;
+}
